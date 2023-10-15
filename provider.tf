@@ -1,0 +1,3 @@
+provider = 'awscheck "bucket" {
+  
+}'
